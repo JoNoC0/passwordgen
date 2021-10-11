@@ -17,4 +17,4 @@ The generator will take the responses then make a randomized password when the "
 
 ## Screenshots
 
-<img src="passwordgen/develop/assets/images/InitialPassGen.png">Starting Page</a>
+<img src="https://github.com/JoNoC0/passwordgen/tree/feature/startup/Assets/images/InitialPassGen">Starting Page</a>
