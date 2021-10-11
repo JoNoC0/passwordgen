@@ -26,10 +26,11 @@ The generator will take the responses then make a randomized password when the "
 <li><a href="https://raw.githubusercontent.com/JoNoC0/passwordgen/main/images/UpperPassGen.png">Uppercase</a>
 <li><a href="https://raw.githubusercontent.com/JoNoC0/passwordgen/main/images/RandomPassGen.png">Random</a>
 
+
 # Contact
 
 John Nguyen
-
+<li><a href="mailto:jnguyeningco@gmail.com">Email</a>
 <li><a href="https://www.linkedin.com/in/john-nguyen-49158621a">Linked In</a>
 <li><a href="https://www.github.com/JoNoC0/passwordgen">Project Link</a>
-<li><a href="https://jonoc0.github.io/passwordgen/">Page Link</a>
+<li><a href="https://jonoc0.github.io/passwordgen/Develop/index.html">Password Generator</a>
